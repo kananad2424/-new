@@ -1,0 +1,6 @@
+{
+  "name": "HR Connect Leave Portal",
+  "description": "An interactive, corporate-grade Employee Leave Management System with role-based dashboards, leave calendar, interactive request form with drag-and-drop file attachment support, and administrative approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
